@@ -1,0 +1,17 @@
+[
+  {
+    "isSelected": true,
+    "buttonText": "فارسی",
+    "value": "fa"
+  },
+  {
+    "isSelected": false,
+    "buttonText": "العربیه",
+    "value": "ar"
+  },
+  {
+    "isSelected": false,
+    "buttonText": "English",
+    "value": "en"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "isSelected": false,
+    "icon": "fa"
+  },
+  {
+    "isSelected": true,
+    "icon": "ar"
+  },
+  {
+    "isSelected": false,
+    "icon": "en"
+  }
+]

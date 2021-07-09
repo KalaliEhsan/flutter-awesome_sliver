@@ -1,0 +1,17 @@
+[
+  {
+    "isSelected": true,
+    "buttonText": "item1",
+    "value": "all"
+  },
+  {
+    "isSelected": false,
+    "buttonText": "item2",
+    "value": "fa"
+  },
+  {
+    "isSelected": false,
+    "buttonText": "item3",
+    "value": "en"
+  }
+]
